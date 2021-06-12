@@ -24,14 +24,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Theoretical Computer Science
+    institution: Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Master in Computer Application Technology
+    institution: Institute of Computing Technology, University of Chinese Academy of Sciences
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Bachelor in Statistics and  Economics
+    institution: School of Mathematics and Statistics (Elite Class), Shandong University, Weihai
     year: 2008
 
 # Social/Academic Networking
