@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiaojin Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in CSE, CUHK
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: CUHK
+  url: https://www.cuhk.edu.hk/chinese/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like designing efficient algorithms. I have broad interests in classical theoretical computer science and modern machine learning fields.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multi-Armed Bandits
+- Property Testing
 
 # Education to show in About widget
 education:
