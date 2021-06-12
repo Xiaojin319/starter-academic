@@ -26,13 +26,13 @@ education:
   courses:
   - course: PhD in Theoretical Computer Science
     institution: Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong
-    year: 2012
+    year: 2021
   - course: Master in Computer Application Technology
     institution: Institute of Computing Technology, University of Chinese Academy of Sciences
-    year: 2009
+    year: 2017
   - course: Bachelor in Statistics and  Economics
     institution: School of Mathematics and Statistics (Elite Class), Shandong University, Weihai
-    year: 2008
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
